@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view>今天中午吃什么？</view>
+<view wx:if="{{condition === 1}}">
+  饺子
+</view>
+<view wx:elif="{{condition ===2}}">
+  米饭
+</view>
+<view wx:else>
+  面食
+</view>
