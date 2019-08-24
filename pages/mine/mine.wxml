@@ -1,0 +1,6 @@
+<!--pages/mine/index.wxml-->
+<view>
+  hello || {{msg}}
+  <view>num: {{num}}</view>
+  view
+</view>
