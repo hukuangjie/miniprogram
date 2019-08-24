@@ -1,6 +1,7 @@
-<!--pages/mine/index.wxml-->
+<!-- pages/mine/index.wxml -->
 <view>
   hello || {{msg}}
   <view>num: {{num}}</view>
-  view
+  <view >isBoy: {{isBoy}}</view>
+  <view>person.name {{person.name}} ++ person.height {{person.height}}</view>
 </view>

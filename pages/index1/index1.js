@@ -1,17 +1,11 @@
-// pages/mine/index.js
+// pages/index1/index1.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    msg: "hello world",
-    num: 1000,
-    isBoy: true,
-    person: {
-      name: "bb",
-      height: "188"
-    }
+    isChecked: true
   },
 
   /**
